@@ -2,6 +2,14 @@
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;     /* use grid for two-dimensional */
     grid-template-rows: 25% 25% 25% 25%;        /* use flex for one-dimensional */
-    width: 200px;
-    height: 200px;
+    width: 800px;
+    height: 800px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+button {
+    width: 130px;
+    margin: 10px 335px;
 }
