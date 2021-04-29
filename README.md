@@ -1,5 +1,7 @@
 README.md
 
+DOM Manipulation
+
 Browser version of something between a sketchpad and an Etch-a-Sketch
 
 1. git clone git@github.com:jerikko/etch-a-sketch.git - OK
